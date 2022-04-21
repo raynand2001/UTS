@@ -1,0 +1,1 @@
+{"Nama_Wilayah":"DKI Jakarta","Jumlah_Positif":"1245653","Jumlah_Dirawat":"411","Jumlah_Sembuh":"1227793","Jumlah_Meninggal":"15244","Nama_Operator":"Raynand sakti prakoso","NIM_Mahasiswa":"191011401096"}
